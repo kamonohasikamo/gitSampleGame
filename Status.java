@@ -8,7 +8,7 @@ public class Status {
 	public int luk;
 
 	public Status() {
-		this.hp = 100;
+		this.hp = 200;
 		this.lv = 1;
 		this.atk = 50;
 		this.def = 50;
