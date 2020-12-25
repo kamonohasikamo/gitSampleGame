@@ -19,3 +19,32 @@ javac *.java
 java MainGame
 ```
 とすれば実行できます．
+
+実行すると
+```java:run
+java MainGame
+---Player Profile---
+LV:     1
+HP:     100
+MP:     50
+ATK:    50
+DEF:    50
+SPEED:  5
+LUK:    30
+---Command List---
+1: Add Lv
+2: Sub Lv
+3: Add atk
+4: Sub atk
+5: Add def
+6: Sub def
+7: Add HP
+8: Sub HP
+9: Add MP
+exit: close program
+Input Command!
+```
+
+と表示されます．
+
+ここのコマンドを作成しましょう．
