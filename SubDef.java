@@ -3,6 +3,6 @@ public class SubDef {
 	/// 引数をデクリメントして返すメソッドを作ろう！
 	/// </summary>
 	public int subdef(int def) {
-		return 1;
+		return def - 1;
 	}
 }
