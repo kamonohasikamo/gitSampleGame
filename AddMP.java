@@ -3,6 +3,7 @@ public class AddMP {
 	/// 引数をインクリメントして返すメソッドを作ろう！
 	/// </summary>
 	public int addmp(int mp) {
-		return 1;
+                mp = mp +1;
+		return mp;
 	}
 }
