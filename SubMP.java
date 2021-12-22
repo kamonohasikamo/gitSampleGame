@@ -3,6 +3,9 @@ public class SubMP {
 	/// 引数をインクリメントして返すメソッドを作ろう！
 	/// </summary>
 	public int submp(int mp) {
-		return 1;
+		int changed = mp;
+		changed++;
+		return changed;
+
 	}
 }
