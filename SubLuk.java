@@ -3,6 +3,6 @@ public class SubLuk {
 	/// 引数をインクリメントして返すメソッドを作ろう！
 	/// </summary>
 	public int subLuk(int luk) {
-		return 1;
+		return --luk;
 	}
 }
